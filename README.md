@@ -17,3 +17,4 @@ This project is a Flask web application that demonstrates key web development co
 -Delete their account entirely.
 
 #Video Walkthrough
+![Motivate App](https://github.com/user-attachments/assets/d76d41b6-5b11-4871-9d9d-a50334ddd8df)
