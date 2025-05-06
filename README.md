@@ -7,6 +7,8 @@ Motivation CRUD application utilizing a quotes API : https://api.quotable.io/
 Mental Health is a significant issue that many university students face. Considering the lack of efforts made towards remedying this issue, this project could potentially be integrated with different e-learning platforms.
 This project is a Flask web application that demonstrates key web development concepts including JWT-based authentication, routing, template rendering, and basic CRUD operations. The application allows the following user stories:
 N.b Users can include the following actors: Students,Lecturers, Teaching Assistants.
+
+
 -Users can register and log in using JSON Web Tokens (JWT) to ensure secure login.
 
 -Users can view a "Quote of the Day", fetched dynamically from a public quotes API (Quotable) to motivate themselves.
