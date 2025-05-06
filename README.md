@@ -1,4 +1,5 @@
 # MyUwiMotivate
+Personal Project
 Time Spent: 4 hours
 
 Motivation CRUD application utilizing a quotes API : https://api.quotable.io/
